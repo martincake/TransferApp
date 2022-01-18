@@ -15,7 +15,7 @@ class ViewController: UIViewController, UpdatableDataController, DataUpdateProto
     
     @IBOutlet var dataLabel: UILabel!
     
-    var updatedData: String = "1"
+    var updatedData: String = "Label"
     
     override func viewDidLoad() {
         super.viewDidLoad()
